@@ -32,8 +32,8 @@ StreamingMedia.install = function () {
 	if (!window.plugins) {
 		window.plugins = {};
 	}
-	window.plugins.streamingMedia = new StreamingMedia();
-	return window.plugins.streamingMedia;
+	window.plugins.streamingMediaPoli = new StreamingMedia();
+	return window.plugins.streamingMediaPoli;
 };
 
 cordova.addConstructor(StreamingMedia.install);

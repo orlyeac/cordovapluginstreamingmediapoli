@@ -2,7 +2,7 @@
 <plugin
 	xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	id="cordova-plugin-streaming-media"
+	id="cordovapluginstreamingmediapoli"
 	version="2.3.0">
 
 	<name>StreamingMedia</name>
@@ -17,16 +17,16 @@
 
 	<keywords>Streaming, Media, Video, Audio, Android, iOS</keywords>
 
-	<repo>https://github.com/nchutchind/Streaming-Media-Cordova-Plugin.git</repo>
+	<repo>https://github.com/orlyeac/cordovapluginstreamingmediapoli.git</repo>
 
-	<issue>https://github.com/nchutchind/Streaming-Media-Cordova-Plugin/issues</issue>
+	<issue>https://github.com/orlyeac/cordovapluginstreamingmediapoli/issues</issue>
 
 	<engines>
 		<engine name="cordova" version=">=3.0.0" />
 	</engines>
 
 	<js-module src="www/StreamingMedia.js" name="StreamingMedia">
-		<clobbers target="streamingMedia" />
+		<clobbers target="streamingMediaPoli" />
 	</js-module>
 
 	<!-- ios -->

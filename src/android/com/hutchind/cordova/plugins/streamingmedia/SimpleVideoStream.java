@@ -84,7 +84,7 @@ MediaPlayer.OnErrorListener, MediaPlayer.OnBufferingUpdateListener {
 			if (!mControls) {
 				mMediaController.setVisibility(View.GONE);
 			}
-			mVideoView.setMediaController(mMediaController);
+			// mVideoView.setMediaController(mMediaController);
 		} catch (Throwable t) {
 			Log.d(TAG, t.toString());
 		}

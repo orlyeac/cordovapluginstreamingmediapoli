@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-streaming-media",
+  "name": "cordovapluginstreamingmediapoli",
   "version": "2.3.0",
   "description": "This plugin allows you to stream audio and video in a fullscreen, native player on iOS and Android.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nchutchind/Streaming-Media-Cordova-Plugin.git"
+    "url": "git+https://github.com/orlyeac/cordovapluginstreamingmediapoli"
   },
   "keywords": [
     "media",
@@ -21,11 +21,12 @@
   "author": "Nicholas Hutchind",
   "contributors": [
       "Timothy Shamilov",
-      "Michael Robinson"
+      "Michael Robinson",
+      "Orlando Abreu"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nchutchind/Streaming-Media-Cordova-Plugin/issues"
+    "url": "https://github.com/orlyeac/cordovapluginstreamingmediapoli/issues"
   },
-  "homepage": "https://github.com/nchutchind/Streaming-Media-Cordova-Plugin#readme"
+  "homepage": "https://github.com/orlyeac/cordovapluginstreamingmediapoli#readme"
 }
